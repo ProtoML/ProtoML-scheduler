@@ -1,4 +1,4 @@
-protoML-scheduler
+ProtoML-scheduler
 =================
 
-The scheduler for protoML.
+The scheduler for ProtoML.
